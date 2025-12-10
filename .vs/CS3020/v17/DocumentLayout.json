@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adspa\\source\\repos\\CS3020\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|C:\\Users\\adspa\\source\\repos\\CS3020\\cs3020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|solutionrelative:cs3020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|c:\\users\\adspa\\source\\repos\\cs3020\\cs3020\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|solutionrelative:cs3020\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|c:\\users\\adspa\\source\\repos\\cs3020\\cs3020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412340D3-1328-4A8A-9149-63B437C6C2B0}|CS3020\\CS3020.csproj|solutionrelative:cs3020\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.cs",
+              "RelativeDocumentMoniker": "CS3020\\Form1.cs",
+              "ToolTip": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.cs [Design]",
+              "RelativeToolTip": "CS3020\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T19:04:10.657Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "CS3020\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.Designer.cs",
+              "RelativeToolTip": "CS3020\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T18:38:02.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.cs",
+              "RelativeDocumentMoniker": "CS3020\\Form1.cs",
+              "ToolTip": "C:\\Users\\adspa\\source\\repos\\CS3020\\CS3020\\Form1.cs",
+              "RelativeToolTip": "CS3020\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T00:18:06.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

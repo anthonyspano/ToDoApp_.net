@@ -1,0 +1,16 @@
+C:\Users\adspa\source\repos\CS3020\CS3020\bin\Debug\net8.0-windows\CS3020.exe
+C:\Users\adspa\source\repos\CS3020\CS3020\bin\Debug\net8.0-windows\CS3020.deps.json
+C:\Users\adspa\source\repos\CS3020\CS3020\bin\Debug\net8.0-windows\CS3020.runtimeconfig.json
+C:\Users\adspa\source\repos\CS3020\CS3020\bin\Debug\net8.0-windows\CS3020.dll
+C:\Users\adspa\source\repos\CS3020\CS3020\bin\Debug\net8.0-windows\CS3020.pdb
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.Form1.resources
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.csproj.GenerateResource.cache
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.AssemblyInfoInputs.cache
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.AssemblyInfo.cs
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.csproj.CoreCompileInputs.cache
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.dll
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\refint\CS3020.dll
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.pdb
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\CS3020.genruntimeconfig.cache
+C:\Users\adspa\source\repos\CS3020\CS3020\obj\Debug\net8.0-windows\ref\CS3020.dll
